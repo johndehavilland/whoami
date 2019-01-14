@@ -16,7 +16,7 @@ As your leader:
 
 * I will help you be more productive
 
-I am not here as *the decider*. I wil attempt to communicate my vision, the context and goals to allow you to come up with the best solutions to help get us there. 
+I am not here as *the decider*. I will attempt to communicate my vision, the context and goals to allow you to come up with the best solutions to help get us there. 
 
 ## My Expectations
 
@@ -34,7 +34,7 @@ I am a strong advocate of a growth mindset. To that end I expect you to:
 
 ## What do I value most?
 
-There are a lot of things I value but here are some key things that will help us all be successful:
+Here are some of the key things that I value most:
 
 * Be honest.
 
@@ -64,5 +64,5 @@ If I send a communication outside of 9am-5pm then please feel free to ignore it 
 
 I actively use Teams and email and can be reached via either. On Teams, I will likely respond fairly quickly, email maybe a bit slower. 
 
-If you need to reach me urgently then you can reach out to my cell phone at anytime.
+If you need to reach me urgently then you can reach out to my cellphone at anytime.
 
