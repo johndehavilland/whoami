@@ -4,18 +4,21 @@ Welcome. This is my Manager README. It is an attempt to introduce you to my phil
 
 ## My role as your leader
 
-My role here is to make our team successful. I am a firm believer that I work for you and not the other way around.
+My role here is to make our team and our customers successful. I am a firm believer that I work for you and not the other way around.
 
-In that spirit here are some things you can expect me to do:
+In that spirit here are some things you can expect from me:
 
 * I will be your champion.
-    I am here to help you be successful and champion you on that journey. We all need cheerleaders and I will be yours. I will help you 
+
+I am here to help you be successful and champion you on that journey. We all need cheerleaders and I will be yours. I will celebrate your successes - let me know when things go well and when things make you proud.
 
 * I will provide context for you.
-    I will strive to provide you the 'why' for what is being asked of you. If this is ever unclear, then let me know and I will do my best to provide the right context and clarity.
 
-* I will help to unblock you.
-    I am here to help remove challenges and obstacles that get in your way, preventing you from being successful in your role. If you face a challenge and need some help, let me know. Together we can work through it.
+I will strive to provide you the 'why' for what is being asked of you. If this is ever unclear, then let me know and I will do my best to provide the right context and clarity.
+
+* I will fight alongside you.
+
+I am here to help remove challenges and obstacles that get in your way, preventing you from being successful in your role. If things are causing you to not be able focus on what you feel is important, let me know. If you face a challenge and need some help, let me know. If you screwed something up, let me know. Together we can work through it.
 
 One thing I am not is *the decider*. I will try to provide a framework and communicate the context, vision, and goals to allow you to come up with the best approaches and solutions to help get us there. 
 
@@ -29,9 +32,11 @@ I am a strong advocate of a growth mindset. To that end I look to you to:
 
 * Learn from critiscism
 
-* Disagree with me.
+* Be open-minded
 
-* Tell me when I screw up.
+* Take ownership
+
+* Embrace a team mentality
 
 ## What do I value most?
 
@@ -41,10 +46,10 @@ Here are some of the key things that I value most:
     If you are honest, then I can trust you.
 
 * Be ethical.
-    Across all that we do, we should ensure we are ethical.
+    Across all that we do, we should ensure we are ethical. There are the standard things but this also encompasses how we treat others, how we treat our technology and how we work with customers.
 
 * Be vocal.
-    Unfortunately, I can't read minds (yet :)). If you need me to do something, or something is on your mind then let me know. If I am doing something you disagree with - let me know. I value and appreciate feedback.
+    Unfortunately, I can't read minds (yet :)). If you need me to do something, or something is on your mind then let me know. If you disagree with something, speak up and we can discuss it. If I am doing something you disagree with - let me know. If I screw up, tell me. I value and appreciate feedback. 
 
 * Be open to feedback.
     I will strive to give you timely feedback that is constructive, honest, transparent and fair. I ask you be open to feedback, even if negative. I want you to be successful so I will share feedback to help facilitate that.
@@ -58,6 +63,8 @@ Agenda is yours - you tell me what you would like to talk about. Occasionally I 
 They don't need to be status updates (unless you want them to be). Ideas that might be useful to talk about could be aspirations, challenges, areas of concern.
 
 Outside of the regular 1:1s, if you want to talk, feel free to schedule time with me. I try to keep my calendar up-to-date so throw some time on it for us to connect and I will prioritize it.
+
+If it is something important, don't wait for our 1:1 to connect.
 
 ## My availability
 
